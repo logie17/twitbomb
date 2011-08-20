@@ -1,32 +1,48 @@
 = twitbomb
 
-* http://github.com/#{github_username}/#{project_name}
+* http://github.com/logie17/twitbomb
 
 == DESCRIPTION:
 
-FIX (describe your package)
+Everyone has a twitter, facebook, myspace, blah blah, next cool social
+network, etc.  
+
+The reasons that one may yet to sign up for one of these social networking
+accounts could be privacy concerns, overly aggressive user policies, or the
+simple fact it's just uncool. 
+
+E-mail is the original online social network, it was here before Zuckerberg
+and his crew of php developers were a twinkle in their parents eyes. Yes,
+e-mail still exists and it was *designed* for social messaging.
+
+Now with the power of a command line tool one can send e-mail or what I call 
+*twits*. Find the latest coolest YouTube video or slashdot.org article, now 
+you can simple e-mail this to your friends and not broadcast your links and 
+quips without fear public reprisal. 
 
 == FEATURES/PROBLEMS:
 
-* FIX (list of features or problems)
+* Create simple lists of contacts
+
+* Easily e-mail twits
 
 == SYNOPSIS:
 
-  FIX (code sample of usage)
+* twitbomb family http://cool.com/this/is/a/great/article.html
 
 == REQUIREMENTS:
 
-* FIX (list of requirements)
+* ruby
 
 == INSTALL:
 
-* FIX (sudo gem install, anything else)
+* gem install twitbomb
 
 == LICENSE:
 
 (The MIT License)
 
-Copyright (c) 2011 FIXME full name
+Copyright (c) 2011 Logan J. Bell
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
