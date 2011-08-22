@@ -1,5 +1,4 @@
 require File.dirname(__FILE__) + '/test_helper.rb'
-
 class TestTwitbomb < Test::Unit::TestCase
 
   def setup
